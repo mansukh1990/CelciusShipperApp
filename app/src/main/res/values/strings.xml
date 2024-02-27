@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Celcius Shipper App</string>
+    <string name="str_permission_list_details">We take the following permissions to ensure a safe and enjoyable experience for you :</string>
+    <string name="str_camera">Camera</string>
+    <string name="str_camera_details">Need this while scanning the barcode.</string>
+    <string name="str_location_access">Location</string>
+    <string name="str_notification">Notifications</string>
+    <string name="str_notification_details">We need this to send information related to the order.</string>
+    <string name="str_location_details">We need this permission to track the location of the order.</string>
+    <string name="str_get_started">Get Started</string>
+    <string name="str_app_permission">App Permission</string>
+    <string name="str_access_permission">Access Permission</string>
+    <string name="str_welcome">Welcome!</string>
+    <string name="str_credentials_desc">Please enter your credentials to access your account.</string>
+    <string name="str_forgot_password">Forgot Password?</string>
+    <string name="str_enter_your_password">Enter your password</string>
+    <string name="str_enter_your_email">Enter your email</string>
+    <string name="str_forgot_password_que">Forgot Password?</string>
+    <string name="str_forgot_desc">Please enter the email address linked with your account.</string>
+    <string name="str_send_code">Send Code</string>
+    <string name="str_change_password">Change Password</string>
+    <string name="str_change_pwd_desc">Your new password must be unique from those previously used.</string>
+    <string name="str_new_password">New password</string>
+    <string name="str_confirm_password">Confirm password</string>
+    <string name="str_select_warehouse">Select Warehouse</string>
+    <string name="network_error">You don\'t seem to have an active internet connection, check your network connection and try again.!!!</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? <b>Sign up</b></string>
+    <string name="enter_password">Enter Password <font color='#FF0000'>*</font></string>
+    <string name="continue_">Continue</string>
+    <string name="log_in">Log in</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="login_with_whatsapp">Login With WhatsApp</string>
+    <string name="terms_of_use">Terms Of Use</string>
+    <string name="privacy">Privacy</string>
+    <string name="policy">Policy</string>
+    <string name="enter_company_name">Enter Company Name <font color='#FF0000'>*</font></string>
+    <string name="enter_mobile_number">Enter Mobile Number <font color='#FF0000'>*</font></string>
+    <string name="enter_confirm_password">Enter Confirm Password <font color='#FF0000'>*</font></string>
+    <string name="enter_pin_code">Enter Pin Code <font color='#FF0000'>*</font></string>
+    <string name="enter_email_id">Enter Email Id <font color='#FF0000'>*</font></string>
+    <string name="enter_otp">Enter OTP</string>
+
+</resources>

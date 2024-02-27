@@ -1,0 +1,30 @@
+<vector android:autoMirrored="true" android:height="80dp"
+    android:viewportHeight="80" android:viewportWidth="80"
+    android:width="80dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#E7EFF5" android:pathData="M40,40m-40,0a40,40 0,1 1,80 0a40,40 0,1 1,-80 0"/>
+    <path android:fillColor="#00000000"
+        android:pathData="M37.344,20.852V52.803"
+        android:strokeColor="#045C97" android:strokeLineCap="round"
+        android:strokeLineJoin="round" android:strokeWidth="1"/>
+    <path android:fillColor="#00000000"
+        android:pathData="M44.153,47.604V21.807C44.153,18.047 41.106,15 37.346,15C33.579,15 30.531,18.047 30.531,21.807V47.604C28.372,49.501 27,52.272 27,55.373C27,61.084 31.635,65.719 37.346,65.719C43.056,65.719 47.691,61.084 47.691,55.373C47.691,52.272 46.319,49.494 44.16,47.604H44.153Z"
+        android:strokeColor="#045C97" android:strokeLineCap="round"
+        android:strokeLineJoin="round" android:strokeWidth="1"/>
+    <path android:fillColor="#00000000"
+        android:pathData="M46.902,32.172H53.999"
+        android:strokeColor="#045C97" android:strokeLineCap="round"
+        android:strokeLineJoin="round" android:strokeWidth="1"/>
+    <path android:fillColor="#00000000"
+        android:pathData="M46.902,25.84H51.793"
+        android:strokeColor="#045C97" android:strokeLineCap="round"
+        android:strokeLineJoin="round" android:strokeWidth="1"/>
+    <path android:fillColor="#00000000"
+        android:pathData="M46.902,44.168H53.999"
+        android:strokeColor="#045C97" android:strokeLineCap="round"
+        android:strokeLineJoin="round" android:strokeWidth="1"/>
+    <path android:fillColor="#00000000"
+        android:pathData="M46.902,37.832H51.793"
+        android:strokeColor="#045C97" android:strokeLineCap="round"
+        android:strokeLineJoin="round" android:strokeWidth="1"/>
+    <path android:fillColor="#EC1E27" android:pathData="M37.341,60.155C39.983,60.155 42.124,58.014 42.124,55.373C42.124,52.731 39.983,50.59 37.341,50.59C34.7,50.59 32.559,52.731 32.559,55.373C32.559,58.014 34.7,60.155 37.341,60.155Z"/>
+</vector>

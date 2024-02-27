@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- <color name="colorPrimary">#16347F</color>-->
+    <color name="colorPrimary">#0F5D98</color>
+    <color name="colorPrimaryDark">#095087</color>
+    <!--<color name="colorAccent">#B5B7BA</color>-->
+    <color name="colorAccent">#24438F</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="text_blank">#353434</color>
+
+    <!-- <color name="bg_color">#ffffff</color>-->
+    <color name="bg_color">#ECF3F6</color>
+
+    <color name="btn_green">#6BAF30</color>
+    <color name="grey">#a9a9a9</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="font_color_1">#000000</color>
+    <color name="font_color_2">#E50019</color>
+    <color name="font_color_3">#3B3C3E</color>
+    <color name="font_color_4">#6B6D70</color>
+    <color name="font_color_5">#4F81C2</color>
+    <color name="font_color_6">#D8001C</color>
+    <color name="font_color_7">#616366</color>
+
+    <color name="side_col1">#6BAF30</color>
+    <color name="side_col2">#00B6F2</color>
+    <color name="side_col3">#F9CE00</color>
+    <color name="side_col4">#E0007A</color>
+    <color name="side_col_truck">#5087C6</color>
+    <color name="truck_bg_col">#4F81C2</color>
+    <color name="line_color">#B5B7BA</color>
+    <color name="white_trans">#95FFFFFF</color>
+    <color name="bg_progress_dialog">#E0E3E6</color>
+    <color name="dark_green">#408009</color>
+
+
+    <color name="float_transparent">#00000000</color>
+    <color name="sweet_dialog_bg_color">#FFFFFF</color>
+    <color name="error_stroke_color">#EF3A3F</color>
+    <color name="blue_btn_bg_color">#EF3A3F</color>
+    <color name="blue_btn_bg_pressed_color">#EF3A3F</color>
+    <color name="success_stroke_color">#FF3D8614</color>
+    <color name="gray_btn_bg_color">#EF3A3F</color>
+    <color name="red_btn_bg_color">#EF3A3F</color>
+    <color name="warning_stroke_color">#EF3A3F</color>
+    <color name="red_btn_bg_pressed_color">#EF3A3F</color>
+    <color name="trans_success_stroke_color">#FF73BF48</color>
+    <color name="menu_text_color">#898989</color>
+    <color name="button_text_color">#FFFFFF</color>
+
+    <color name="view_color">#F9FAFB</color>
+    <color name="bg_trip">#E7EFF5</color>
+    <color name="color_check_box">#2A4791</color>
+    <color name="bottom_unselect">#999999</color>
+
+    <color name="primary_selected_text_color">#0F5D98</color>
+    <color name="primary_un_selected_text_color">#626262</color>
+    <color name="quick_inquiry_bg">#0D0F5D98</color>
+    <color name="DarkGray">#6E6B7B</color>
+    <color name="lite_primary">#0D0F5D98</color>
+    <color name="middle_primary">#e7eff5</color>
+    <color name="liteBlue">#1A045C97</color>
+    <color name="primary_selected_text_color_ripple">#CCD3DA</color>
+
+    <color name="text_color">#0F5D98</color>
+    <color name="background_color">#ecf0f3</color>
+    <color name="background">#e1e6ec</color>
+    <color name="highlight">#ffffff</color>
+    <color name="shadow_color">#d9dbde</color>
+
+    <color name="lightPrimary">#e7eff5</color>
+    <color name="middlePrimary">#86adcb</color>
+
+    <color name="lightgray">#7b7987</color>
+    <color name="darkGray">#878692</color>
+    <color name="second_middle_primary">#f2f2f2</color>
+    <color name="dark_gray">#6E6B7B</color>
+    <color name="remark_border_color">#40626262</color>
+    <color name="repotDownloadTextColor">#6E6B7B</color>
+    <color name="product_view_color">#b1cade</color>
+
+    <color name="color_date_range">#1E232C</color>
+    <color name="color_select_your">#5C5C5C</color>
+    <color name="color_from">#485761</color>
+    <color name="color_from_date">#929DA7</color>
+    <color name="color_outbound_color">#2BC48A</color>
+    <color name="color_inbound_color">#EC1E27</color>
+    <color name="red">#d32f2f</color>
+
+    <color name="gray">#8391A1</color>
+    <color name="border">#A0A0A0</color>
+
+    <color name="border_color">#DADADA</color>
+    <color name="bg_text_input">#F7F8F9</color>
+    <color name="border_back">#E8ECF4</color>
+
+    <color name="onboarding_color_1">#407BFF</color>
+    <color name="blue_toolbar">@color/colorAccent</color>
+
+    <color name="borderColor_alpha">#E8E8E8</color>
+    <color name="color3C3C3C">#3C3C3C</color>
+    <color name="disableText">#3C3C3C61</color>
+    <color name="dash_line">#3C3C3C40</color>
+
+
+    <color name="primary_blue">#079ED5</color>
+    <color name="primary_red">#FF407B</color>
+    <color name="primary_yellow">#FFC440</color>
+
+    <color name="barcode_reticle_stroke">#ffffff</color>
+    <color name="barcode_reticle_background">#99000000</color>
+    <color name="background_attach_file">#edf4f7</color>
+    <color name="text_color_gray">#bec5cb</color>
+
+    <color name="disable_button">#61000000</color>
+
+    <color name="search_filter">#37474F</color>
+    <color name="search_text_color">#8391A199</color>
+    <color name="home_background_color">#edf4f7</color>
+    <color name="home_text_toolbar_color">#37474F</color>
+    <color name="home_place_toolbar_color">#81B2CA</color>
+    <color name="search_color">#E8ECF4</color>
+    <color name="search_text_1">#1E232C</color>
+    <color name="font_color_8">#CCCCCC</color>
+
+    <color name="bg_setting">#2481B2CA</color>
+    <color name="bg_setting_icon">#1A079ED5</color>
+    <color name="color_setting_desc">#ABABAB</color>
+    <color name="color_setting_line">#14000000</color>
+    <color name="color_label">#485761</color>
+    <color name="color_label_disable">#4D485761</color>
+    <color name="color_box_disable">#38E0E0E0</color>
+    <color name="color_hint">#929DA7</color>
+    <color name="color_tab_text">#6637474F</color>
+    <color name="color_selected_tab">#1A079ED5</color>
+    <color name="color_pagination_text">#808080</color>
+    <color name="color_hint_1">#BAD6E6</color>
+    <color name="color_view">#808080</color>
+    <color name="color_card_cycle_cnt">#079ED5</color>
+    <color name="color_text_overall">#485761</color>
+    <color name="color_txt_back">#EDF4F8</color>
+
+    <color name="color_image_stroke">#E2E2E2</color>
+    <color name="color_txt_summary">#1A1A1A</color>
+    <color name="color_txt_summary_no">#801E232C</color>
+
+    <color name="colorTextDetailed">#1A1A1A</color>
+    <color name="colorPending">#D50707</color>
+    <color name="colorRunning">#16A813</color>
+    <color name="colorPendingAlpha">#26F06F6F</color>
+    <color name="colorRunningAlpha">#263BC78C</color>
+    <color name="colorTotalQty">#E6E6E6</color>
+
+    <color name="color_green">#0DBD14</color>
+    <color name="color_cycle_count_confirm_chg">#5C5C5C</color>
+    <color name="color_expiration_date">#EFEFEF</color>
+    <color name="color_first_grn">#3BC78C26</color>
+    <color name="color_shimmer">#B3B3B3</color>
+    <color name="color_ripple">#D3D3D3</color>
+    <color name="color_create_layout_bg">#EDF4F8</color>
+    <color name="color_bg_layout">#37474F</color>
+    <color name="color_white">#ffffff</color>
+    <color name="colorAccentDark">#0683B0</color>
+    <color name="white_">#ffffff</color>
+    <color name="color_text_blue">@color/colorAccent</color>
+    <color name="color_stroke">#333436</color>
+    <color name="color_et_bg">#ffffffff</color>
+    <color name="color_pending_task_bg">#ffffff</color>
+    <color name="color_dark_black">#FB000000</color>
+    <color name="color_next_array">#37474F</color>
+    <color name="color_array_in_round">#1E232C</color>
+    <color name="color_qty_selected_tab">#1A079ED5</color>
+    <color name="color_black">#282B2B</color>
+</resources>

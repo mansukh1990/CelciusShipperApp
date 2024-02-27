@@ -1,0 +1,51 @@
+<resources>
+
+
+    <dimen name="common_circle_width">2dp</dimen>
+    <dimen name="progress_circle_radius">34dp</dimen>
+
+    <!-- <dimen name="roboto_calendar_padding">8dp</dimen>
+     <dimen name="roboto_calendar_month_margin_bottom">8dp</dimen>
+     <dimen name="roboto_calendar_day_of_the_month_background_size">50dp</dimen>
+     <dimen name="roboto_calendar_circle_size">4dp</dimen>
+     <dimen name="roboto_calendar_ring_size">18dp</dimen>-->
+
+   <!-- <dimen name="roboto_calendar_padding">4dp</dimen>
+    <dimen name="roboto_calendar_month_margin_bottom">4dp</dimen>
+    <dimen name="roboto_calendar_day_of_the_month_background_size">25dp</dimen>
+    <dimen name="roboto_calendar_circle_size">2dp</dimen>
+    <dimen name="roboto_calendar_ring_size">9dp</dimen>-->
+
+    <dimen name="roboto_calendar_padding">@dimen/_1sdp</dimen>
+    <dimen name="roboto_calendar_month_margin_bottom">@dimen/_1sdp</dimen>
+    <dimen name="roboto_calendar_day_of_the_month_background_size">@dimen/_15sdp</dimen>
+    <dimen name="roboto_calendar_circle_size">@dimen/_1sdp</dimen>
+    <dimen name="roboto_calendar_ring_size">@dimen/_4sdp</dimen>
+
+    <dimen name="text_size">@dimen/_5sdp</dimen>
+
+    <dimen name="marquee_text_size">@dimen/_6sdp</dimen>
+
+    <dimen name="dimen_slidingmenu">270dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="downwards_drop_shadow_height">16dp</dimen>
+    <dimen name="dialog_margin">8dp</dimen>
+
+
+    <dimen name="default_tooltip_margin">0dp</dimen>
+    <dimen name="default_tooltip_padding">5dp</dimen>
+    <dimen name="default_tooltip_arrow_height">10dp</dimen>
+    <dimen name="default_tooltip_arrow_width">16dp</dimen>
+
+    <dimen name="action_button_width">48dp</dimen>
+    <dimen name="action_button_padding">16dp</dimen>
+
+    <dimen name="edt_fare">120dp</dimen>
+    <dimen name="edt_fare_height">35dp</dimen>
+
+    <dimen name="reg_text_size">@dimen/_12sdp</dimen>
+    <dimen name="reg_small_text_size">@dimen/_10sdp</dimen>
+    <dimen name="ui_title">@dimen/_20sdp</dimen>
+
+</resources>
